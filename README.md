@@ -50,12 +50,4 @@ If Google blocks the default endpoint (it happens), add a fallback:
 The keyless endpoint gets rate-limited and frowns on VPNs.  Wait a bit, add
 the fallback above, or point `g:translate_endpoint` at a keyed provider.
 
-## Contributing
 
-See the contribution guidelines for
-[pathogen.vim](https://github.com/tpope/vim-pathogen#readme).
-
-## License
-
-Copyright (c) 2026 Daniel Bergmann.  Distributed under the MIT License.
-See [LICENSE](LICENSE).
